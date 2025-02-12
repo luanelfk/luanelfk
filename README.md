@@ -30,7 +30,7 @@ Core Curriculum Complete | Advancing to Algorithms & Calculus
 ✅ Beautiful and Supportive Family by my side 
 
 ## 🔗 **Co-op Mode Activated**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-el-fakih-franca/)  
-[![Steam](https://img.shields.io/badge/Steam-Gaming_Profile-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Lcouto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-el-fakih-franca/)  
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Lcouto)
 
 
